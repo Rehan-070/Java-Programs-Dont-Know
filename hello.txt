@@ -1,0 +1,13 @@
+Hello Freinds ...,
+
+This video is based on windows shortcuts related to typing.
+
+ "ctrl" + "s"  : to save the document .
+ "ctrl" + "a"  : to select all lines in document
+ "ctrl" + "a" + "delete" or "backspace"  : to delete all lines in document
+ "ctrl" + "z"  : use to get removed text again .
+ "ctrl" + "c"  : to copy the text .
+ "ctrl" + "v"  : to paste the text .
+ "shift" + "home" : to select whole line .
+ 
+Like and Support please ..........
